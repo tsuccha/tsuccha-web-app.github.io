@@ -1,8 +1,6 @@
-div h2{
-    color: red;
-}
 body{
-    background: skyblue;
+    background: aqua;
+    margin: 0;
 }
 nav{
     margin:0 0 30px 0;
@@ -27,14 +25,13 @@ nav ul li a{
     text-shadow: 2px 2px 0 #000;
 }
 .container{
-    max-width: 1000px;
+    max-width: 2500px;
     margin: 0px auto 0;
-    background-color: #ccc;
+    background-color: #FFFACD;
 }
 footer{
     padding: 20px 0;
-    font-size: 120%;
+    font-size: 50%;
     text-align: center;
-    background-color: #ccc;
-    color; #666;
+    background-color: whitesmoke;
 }
